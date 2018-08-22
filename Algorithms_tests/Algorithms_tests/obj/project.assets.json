@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BSTS_Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BSTS_Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSTS_Models.dll": {}
+        }
       }
     }
   },
@@ -656,31 +666,37 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BSTS_Models/1.0.0": {
+      "type": "project",
+      "path": "../BSTS_Models/BSTS_Models.csproj",
+      "msbuildProject": "../BSTS_Models/BSTS_Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "BSTS_Models >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bireckia\\.nuget\\packages\\": {},
+    "C:\\Users\\Adam\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\Algorithms_tests.csproj",
-      "projectName": "Algorithms_tests",
-      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\Algorithms_tests.csproj",
-      "packagesPath": "C:\\Users\\bireckia\\.nuget\\packages\\",
-      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\obj\\",
+      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BST_Unbalanced.csproj",
+      "projectName": "BST_Unbalanced",
+      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BST_Unbalanced.csproj",
+      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bireckia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -692,7 +708,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj": {
+              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
