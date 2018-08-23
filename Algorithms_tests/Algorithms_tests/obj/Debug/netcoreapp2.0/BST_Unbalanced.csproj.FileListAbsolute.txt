@@ -1,0 +1,14 @@
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.csprojAssemblyReference.cache
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\BST_Unbalanced.deps.json
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\BST_Unbalanced.dll
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\BST_Unbalanced.pdb
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\BSTS_Models.dll
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\Comparers.dll
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\BSTS_Models.pdb
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\bin\Debug\netcoreapp2.0\Comparers.pdb
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.csproj.CopyComplete
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.dll
+D:\myOwnStorage\Algorithms_tests\Algorithms_tests\obj\Debug\netcoreapp2.0\BST_Unbalanced.pdb

@@ -1,0 +1,8 @@
+D:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.deps.json
+D:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.dll
+D:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.pdb
+D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.dll
+D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.pdb

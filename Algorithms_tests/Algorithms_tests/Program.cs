@@ -47,7 +47,23 @@ namespace Algorithms_tests
                         currentNode = currentNode.Right;
                     }
                 }
+
+                // Reference handle to root again.
+                collection.Clear();
+                var treeRootRefernce = rootNode;
+                _inOrderTravelAndAdd(treeRootRefernce, ref collection);
+                treeRootRefernce = rootNode = null;
             }
+        }
+
+        private static void _inOrderTravelAndAdd<T>(Node<T> currentNode, ref List<T> collection) where T: IComparable<T>
+        {
+            if (currentNode == null)
+                return;
+            
+            _inOrderTravelAndAdd<T>(currentNode.Left, ref collection);
+            collection.Add(currentNode.Value);
+            _inOrderTravelAndAdd<T>(currentNode.Right, ref collection);
         }
     }
 }
