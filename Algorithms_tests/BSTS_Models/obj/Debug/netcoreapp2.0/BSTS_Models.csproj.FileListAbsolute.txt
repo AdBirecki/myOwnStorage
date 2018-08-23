@@ -6,3 +6,12 @@ D:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models
 D:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.AssemblyInfo.cs
 D:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.dll
 D:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.pdb
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\bin\Debug\netcoreapp2.0\BSTS_Models.deps.json
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\bin\Debug\netcoreapp2.0\BSTS_Models.dll
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\bin\Debug\netcoreapp2.0\BSTS_Models.pdb
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.csprojAssemblyReference.cache
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.csproj.CoreCompileInputs.cache
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.AssemblyInfoInputs.cache
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.AssemblyInfo.cs
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.dll
+F:\myOwnStorage\Algorithms_tests\BSTS_Models\obj\Debug\netcoreapp2.0\BSTS_Models.pdb

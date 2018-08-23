@@ -6,3 +6,12 @@ D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.Ass
 D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.AssemblyInfo.cs
 D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.dll
 D:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.pdb
+F:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.deps.json
+F:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.dll
+F:\myOwnStorage\Algorithms_tests\Comparers\bin\Debug\netcoreapp2.0\Comparers.pdb
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.csprojAssemblyReference.cache
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.csproj.CoreCompileInputs.cache
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.AssemblyInfoInputs.cache
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.AssemblyInfo.cs
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.dll
+F:\myOwnStorage\Algorithms_tests\Comparers\obj\Debug\netcoreapp2.0\Comparers.pdb

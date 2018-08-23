@@ -47,13 +47,13 @@ namespace Algorithms_tests
                         currentNode = currentNode.Right;
                     }
                 }
-
-                // Reference handle to root again.
-                collection.Clear();
-                var treeRootRefernce = rootNode;
-                _inOrderTravelAndAdd(treeRootRefernce, ref collection);
-                treeRootRefernce = rootNode = null;
             }
+
+            // Reference handle to root again.
+            collection.Clear();
+            var treeRootRefernce = rootNode;
+            _inOrderTravelAndAdd(treeRootRefernce, ref collection);
+            treeRootRefernce = rootNode = null;
         }
 
         private static void _inOrderTravelAndAdd<T>(Node<T> currentNode, ref List<T> collection) where T: IComparable<T>

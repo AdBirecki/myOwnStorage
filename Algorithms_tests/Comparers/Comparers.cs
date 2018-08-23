@@ -32,7 +32,7 @@ namespace Comparers
 
         public static bool IsLessThan<T>(this T firstValue, T secondValue) where T : IComparable<T>
         {
-            return secondValue.CompareTo(secondValue) > 0;
+            return firstValue.CompareTo(secondValue) < 0;
         }
     }
 }
