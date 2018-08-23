@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj",
-      "projectName": "BSTS_Models",
-      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj",
+      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj",
+      "projectName": "Comparers",
+      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj",
       "packagesPath": "C:\\Users\\bireckia\\.nuget\\packages\\",
-      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\obj\\",
+      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\Comparers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
