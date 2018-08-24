@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Algorithms_tests\BST_Unbalanced.csproj" />
+    <ProjectReference Include="..\Algorithms_tests\BSTUnbalanced_Implementation.csproj" />
   </ItemGroup>
 
 </Project>

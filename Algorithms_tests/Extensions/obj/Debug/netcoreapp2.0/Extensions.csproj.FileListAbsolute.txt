@@ -1,0 +1,8 @@
+D:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.deps.json
+D:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.dll
+D:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.pdb
+D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.dll
+D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.pdb

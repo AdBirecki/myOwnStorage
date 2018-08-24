@@ -1,0 +1,12 @@
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.csprojAssemblyReference.cache
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\bin\Debug\netcoreapp2.0\BubbleSort_Implementation.deps.json
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\bin\Debug\netcoreapp2.0\BubbleSort_Implementation.dll
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\bin\Debug\netcoreapp2.0\BubbleSort_Implementation.pdb
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\bin\Debug\netcoreapp2.0\Extensions.dll
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\bin\Debug\netcoreapp2.0\Extensions.pdb
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.csproj.CopyComplete
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.dll
+D:\myOwnStorage\Algorithms_tests\BubbleSort_Implementation\obj\Debug\netcoreapp2.0\BubbleSort_Implementation.pdb

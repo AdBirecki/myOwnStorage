@@ -1686,7 +1686,7 @@
           "bin/placeholder/BSTS_Models.dll": {}
         }
       },
-      "BST_Unbalanced/1.0.0": {
+      "BSTUnbalanced_Implementation/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
@@ -1694,10 +1694,10 @@
           "Comparers": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/BST_Unbalanced.dll": {}
+          "bin/placeholder/BSTUnbalanced_Implementation.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BST_Unbalanced.dll": {}
+          "bin/placeholder/BSTUnbalanced_Implementation.dll": {}
         }
       },
       "Comparers/1.0.0": {
@@ -5742,10 +5742,10 @@
       "path": "../BSTS_Models/BSTS_Models.csproj",
       "msbuildProject": "../BSTS_Models/BSTS_Models.csproj"
     },
-    "BST_Unbalanced/1.0.0": {
+    "BSTUnbalanced_Implementation/1.0.0": {
       "type": "project",
-      "path": "../Algorithms_tests/BST_Unbalanced.csproj",
-      "msbuildProject": "../Algorithms_tests/BST_Unbalanced.csproj"
+      "path": "../Algorithms_tests/BSTUnbalanced_Implementation.csproj",
+      "msbuildProject": "../Algorithms_tests/BSTUnbalanced_Implementation.csproj"
     },
     "Comparers/1.0.0": {
       "type": "project",
@@ -5755,7 +5755,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "BST_Unbalanced >= 1.0.0",
+      "BSTUnbalanced_Implementation >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.7.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "xunit >= 2.3.1",
@@ -5763,23 +5763,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adam\\.nuget\\packages\\": {},
+    "C:\\Users\\bireckia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\BST_Unbalanced_Tests.csproj",
+      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\BST_Unbalanced_Tests.csproj",
       "projectName": "BST_Unbalanced_Tests",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\BST_Unbalanced_Tests.csproj",
-      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\obj\\",
+      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\BST_Unbalanced_Tests.csproj",
+      "packagesPath": "C:\\Users\\bireckia\\.nuget\\packages\\",
+      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\BST_Unbalanced_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bireckia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5792,8 +5792,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BST_Unbalanced.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BST_Unbalanced.csproj"
+            "D:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj": {
+              "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj"
             }
           }
         }
