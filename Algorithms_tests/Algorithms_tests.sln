@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort_Tests", "BubbleS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{CBE4CC12-1594-4AA2-999F-F9F951F30AA2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comparers_test", "Comparers_test", "{2D4B3C3E-606D-4F29-B4D1-CE166CCEB3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparer", "Comparer\Comparer.csproj", "{9F16B4B1-D36E-47D1-B024-A7B5351F1781}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{CBE4CC12-1594-4AA2-999F-F9F951F30AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBE4CC12-1594-4AA2-999F-F9F951F30AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBE4CC12-1594-4AA2-999F-F9F951F30AA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F16B4B1-D36E-47D1-B024-A7B5351F1781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F16B4B1-D36E-47D1-B024-A7B5351F1781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F16B4B1-D36E-47D1-B024-A7B5351F1781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F16B4B1-D36E-47D1-B024-A7B5351F1781}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +75,7 @@ Global
 		{D7BE6BB2-AACA-4D06-89B7-7525A72CD2AB} = {6D2D6F84-2802-4BA7-892D-C0387925F493}
 		{9165EF0A-0AC0-4EC5-844C-3D0ADCB9A436} = {6D2D6F84-2802-4BA7-892D-C0387925F493}
 		{CBE4CC12-1594-4AA2-999F-F9F951F30AA2} = {6D2D6F84-2802-4BA7-892D-C0387925F493}
+		{9F16B4B1-D36E-47D1-B024-A7B5351F1781} = {2D4B3C3E-606D-4F29-B4D1-CE166CCEB3A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C4EDDB4C-A403-48D6-8025-1C0C9AE303EF}
