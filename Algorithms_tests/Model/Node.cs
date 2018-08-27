@@ -4,7 +4,6 @@ namespace Model
 {
     public class Node<T>: IComparable<Node<T>> where T : IComparable
     {
-
         public T Value { get; }
 
         public int CompareTo(Node<T> other)
