@@ -19,3 +19,4 @@ F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.Assem
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.AssemblyInfo.cs
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.dll
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.pdb
+D:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.csprojAssemblyReference.cache

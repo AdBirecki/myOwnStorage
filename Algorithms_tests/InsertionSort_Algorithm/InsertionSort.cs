@@ -22,16 +22,16 @@ namespace InsertionSort_Algorithm
                 // start of algorithm
 
                 int i, j;
-                for (i = 1; i < nodesCollection.Count; i++)
+                for (j = 2; j < nodesCollection.Count; j++)
                 {
-                    Node<T> node = nodesCollection[i];
-                    j = i - 1;
-                    while (j > 0 && nodesCollection[j].IsGreaterThan(nodesCollection[i]))
+                    Node<T> node = nodesCollection[j];
+                    i = j - 1;
+                    while (i >= 0 && nodesCollection[i].IsGreaterThan(nodesCollection[j]))
                     {
-                        nodesCollection[j + 1] = nodesCollection[j];
-                        j--;
+                        nodesCollection[i + 1] = nodesCollection[i];
+                        i--;
                     }
-                    nodesCollection[j + 1] = node;
+                    nodesCollection[i + 1] = node;
                 }
 
                 return nodesCollection.Select(node => node.Value).ToList();
