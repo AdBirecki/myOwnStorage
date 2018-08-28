@@ -1,0 +1,9 @@
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\bin\Debug\netcoreapp2.0\BucketSort_Algorithm.deps.json
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\bin\Debug\netcoreapp2.0\BucketSort_Algorithm.dll
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\bin\Debug\netcoreapp2.0\BucketSort_Algorithm.pdb
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.csprojAssemblyReference.cache
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.csproj.CoreCompileInputs.cache
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.AssemblyInfoInputs.cache
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.AssemblyInfo.cs
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.dll
+F:\myOwnStorage\Algorithms_tests\BucketSort_Algorithm\obj\Debug\netcoreapp2.0\BucketSort_Algorithm.pdb

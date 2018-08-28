@@ -8,6 +8,7 @@ namespace InsertionExtension
     {
         public static bool IsLessThan<T>(this T firstValue, T secondValue) where T: IComparable<T>
         {
+            var temp = firstValue.CompareTo(secondValue);
             return firstValue.CompareTo(secondValue) < 0;
         }
 

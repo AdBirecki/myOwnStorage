@@ -3,7 +3,6 @@ F:\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.run
 F:\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.runtimeconfig.dev.json
 F:\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.dll
 F:\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.pdb
-F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.csprojAssemblyReference.cache
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.csproj.CoreCompileInputs.cache
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.AssemblyInfoInputs.cache
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.AssemblyInfo.cs

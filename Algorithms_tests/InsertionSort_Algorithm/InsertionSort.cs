@@ -25,10 +25,9 @@ namespace InsertionSort_Algorithm
                 {
                     Node<T> keyNode = nodesCollection[j];
                     var i = j - 1;
-                    while (i >= 0 && nodesCollection[j].IsLessThan(nodesCollection[i]))
+                    while (i >= 0 && nodesCollection[i].IsGreaterThan(keyNode))
                     {
-                        nodesCollection.Swap(j,i);
-                        // nodesCollection[i + 1] = nodesCollection[i];
+                    nodesCollection[i + 1] = nodesCollection[i];
                         i--;
                     }
                     nodesCollection[i + 1] = keyNode;

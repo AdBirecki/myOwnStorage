@@ -6,3 +6,12 @@ D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.A
 D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.AssemblyInfo.cs
 D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.dll
 D:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.pdb
+F:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.deps.json
+F:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.dll
+F:\myOwnStorage\Algorithms_tests\Extensions\bin\Debug\netcoreapp2.0\Extensions.pdb
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.csprojAssemblyReference.cache
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.csproj.CoreCompileInputs.cache
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.AssemblyInfoInputs.cache
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.AssemblyInfo.cs
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.dll
+F:\myOwnStorage\Algorithms_tests\Extensions\obj\Debug\netcoreapp2.0\Extensions.pdb

@@ -13,7 +13,6 @@ F:\myOwnStorage\Algorithms_tests\Comparer\bin\Debug\netcoreapp2.0\Comparer.runti
 F:\myOwnStorage\Algorithms_tests\Comparer\bin\Debug\netcoreapp2.0\Comparer.runtimeconfig.dev.json
 F:\myOwnStorage\Algorithms_tests\Comparer\bin\Debug\netcoreapp2.0\Comparer.dll
 F:\myOwnStorage\Algorithms_tests\Comparer\bin\Debug\netcoreapp2.0\Comparer.pdb
-F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.csprojAssemblyReference.cache
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.csproj.CoreCompileInputs.cache
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.AssemblyInfoInputs.cache
 F:\myOwnStorage\Algorithms_tests\Comparer\obj\Debug\netcoreapp2.0\Comparer.AssemblyInfo.cs

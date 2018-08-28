@@ -26,9 +26,7 @@ F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BS
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BST_Unbalanced_Tests.dll
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BST_Unbalanced_Tests.pdb
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTS_Models.dll
-F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BST_Unbalanced.dll
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\Comparers.dll
-F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BST_Unbalanced.pdb
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTS_Models.pdb
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\Comparers.pdb
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\obj\Debug\netcoreapp2.0\BST_Unbalanced_Tests.csprojAssemblyReference.cache
@@ -40,3 +38,5 @@ F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\obj\Debug\netcoreapp2.0\BS
 F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\obj\Debug\netcoreapp2.0\BST_Unbalanced_Tests.pdb
 D:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTUnbalanced_Implementation.dll
 D:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTUnbalanced_Implementation.pdb
+F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTUnbalanced_Implementation.dll
+F:\myOwnStorage\Algorithms_tests\BST_Unbalanced_Tests\bin\Debug\netcoreapp2.0\BSTUnbalanced_Implementation.pdb

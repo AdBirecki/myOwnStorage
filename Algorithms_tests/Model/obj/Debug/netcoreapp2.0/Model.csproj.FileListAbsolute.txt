@@ -7,3 +7,11 @@ D:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInf
 D:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
 D:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.dll
 D:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.pdb
+F:\myOwnStorage\Algorithms_tests\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+F:\myOwnStorage\Algorithms_tests\Model\bin\Debug\netcoreapp2.0\Model.dll
+F:\myOwnStorage\Algorithms_tests\Model\bin\Debug\netcoreapp2.0\Model.pdb
+F:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+F:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+F:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+F:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.dll
+F:\myOwnStorage\Algorithms_tests\Model\obj\Debug\netcoreapp2.0\Model.pdb

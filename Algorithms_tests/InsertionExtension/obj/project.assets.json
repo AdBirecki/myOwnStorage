@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Model.dll": {}
-        }
       }
     }
   },
@@ -666,37 +656,31 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Model/1.0.0": {
-      "type": "project",
-      "path": "../Model/Model.csproj",
-      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0",
-      "Model >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bireckia\\.nuget\\packages\\": {},
+    "C:\\Users\\Adam\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
+      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
       "projectName": "InsertionExtension",
-      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
-      "packagesPath": "C:\\Users\\bireckia\\.nuget\\packages\\",
-      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\obj\\",
+      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
+      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
+      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bireckia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -708,11 +692,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "D:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj": {
-              "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
