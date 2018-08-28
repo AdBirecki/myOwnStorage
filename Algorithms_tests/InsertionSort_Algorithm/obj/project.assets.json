@@ -196,6 +196,26 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "InsertionExtension/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/InsertionExtension.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InsertionExtension.dll": {}
+        }
+      },
+      "Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Model.dll": {}
+        }
       }
     }
   },
@@ -656,31 +676,43 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "InsertionExtension/1.0.0": {
+      "type": "project",
+      "path": "../InsertionExtension/InsertionExtension.csproj",
+      "msbuildProject": "../InsertionExtension/InsertionExtension.csproj"
+    },
+    "Model/1.0.0": {
+      "type": "project",
+      "path": "../Model/Model.csproj",
+      "msbuildProject": "../Model/Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "InsertionExtension >= 1.0.0",
+      "Microsoft.NETCore.App >= 2.0.0",
+      "Model >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Adam\\.nuget\\packages\\": {},
+    "C:\\Users\\bireckia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
+      "projectUniqueName": "D:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
       "projectName": "InsertionSort_Algorithm",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
-      "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\obj\\",
+      "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
+      "packagesPath": "C:\\Users\\bireckia\\.nuget\\packages\\",
+      "outputPath": "D:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bireckia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -692,7 +724,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj": {
+              "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj"
+            },
+            "D:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj": {
+              "projectPath": "D:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

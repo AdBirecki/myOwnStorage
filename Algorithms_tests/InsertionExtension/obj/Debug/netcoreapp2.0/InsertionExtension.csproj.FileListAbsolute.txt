@@ -1,0 +1,9 @@
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\bin\Debug\netcoreapp2.0\InsertionExtension.deps.json
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\bin\Debug\netcoreapp2.0\InsertionExtension.dll
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\bin\Debug\netcoreapp2.0\InsertionExtension.pdb
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.csprojAssemblyReference.cache
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.dll
+D:\myOwnStorage\Algorithms_tests\InsertionExtension\obj\Debug\netcoreapp2.0\InsertionExtension.pdb

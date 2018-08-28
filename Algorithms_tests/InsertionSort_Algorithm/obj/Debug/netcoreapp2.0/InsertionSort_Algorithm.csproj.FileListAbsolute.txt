@@ -1,0 +1,14 @@
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\InsertionSort_Algorithm.deps.json
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\InsertionSort_Algorithm.dll
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\InsertionSort_Algorithm.pdb
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\InsertionExtension.dll
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\Model.dll
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\InsertionExtension.pdb
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\bin\Debug\netcoreapp2.0\Model.pdb
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.csprojAssemblyReference.cache
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.csproj.CoreCompileInputs.cache
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.AssemblyInfoInputs.cache
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.AssemblyInfo.cs
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.csproj.CopyComplete
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.dll
+D:\myOwnStorage\Algorithms_tests\InsertionSort_Algorithm\obj\Debug\netcoreapp2.0\InsertionSort_Algorithm.pdb
