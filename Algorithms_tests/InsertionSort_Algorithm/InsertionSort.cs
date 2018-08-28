@@ -20,7 +20,6 @@ namespace InsertionSort_Algorithm
                 }
 
                 // start of algorithm
-
                 int j;
                 for (j = 1; j < nodesCollection.Count; j++)
                 {
@@ -28,7 +27,8 @@ namespace InsertionSort_Algorithm
                     var i = j - 1;
                     while (i >= 0 && nodesCollection[j].IsLessThan(nodesCollection[i]))
                     {
-                        nodesCollection[i + 1] = nodesCollection[i];
+                        nodesCollection.Swap(j,i);
+                        // nodesCollection[i + 1] = nodesCollection[i];
                         i--;
                     }
                     nodesCollection[i + 1] = keyNode;

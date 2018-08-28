@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
 namespace InsertionExtension
@@ -20,5 +21,14 @@ namespace InsertionExtension
             return firstValue.Equals(secondValue);
         }
 
+        public static void Swap<T>(this List<T> collection, int firstIndex, int secondIndex) where T : IComparable<T>
+        {
+            if (collection.Count < 2 || firstIndex == secondIndex)
+                return;
+
+            T temp = collection[firstIndex];
+            collection[firstIndex] = collection[secondIndex];
+            collection[secondIndex] = temp;
+        }
     }
 }
