@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
       "projectName": "InsertionSort_Algorithm",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\InsertionSort_Algorithm.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionSort_Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -725,11 +725,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj"
+            "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj"
             },
-            "F:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj"
+            "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj"
             }
           }
         }

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\Model\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

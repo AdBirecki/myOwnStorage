@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\BucketSort_Algorithm.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\BucketSort_Algorithm.csproj",
       "projectName": "BucketSort_Algorithm",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\BucketSort_Algorithm.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\BucketSort_Algorithm.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BucketSort_Algorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

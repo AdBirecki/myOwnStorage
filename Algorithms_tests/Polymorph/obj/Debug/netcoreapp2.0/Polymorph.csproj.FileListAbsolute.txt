@@ -8,3 +8,14 @@ F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.Ass
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.AssemblyInfo.cs
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.dll
 F:\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.pdb
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.deps.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.runtimeconfig.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.dll
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\bin\Debug\netcoreapp2.0\Polymorph.pdb
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.AssemblyInfo.cs
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.dll
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\Polymorph\obj\Debug\netcoreapp2.0\Polymorph.pdb

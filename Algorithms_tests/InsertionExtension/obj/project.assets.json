@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
       "projectName": "InsertionExtension",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\InsertionExtension.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\InsertionExtension\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

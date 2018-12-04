@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj",
       "projectName": "Extensions",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\Extensions\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Extensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

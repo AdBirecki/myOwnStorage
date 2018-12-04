@@ -1,0 +1,11 @@
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\bin\Debug\netcoreapp2.1\NewAndOverride.deps.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\bin\Debug\netcoreapp2.1\NewAndOverride.runtimeconfig.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\bin\Debug\netcoreapp2.1\NewAndOverride.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\bin\Debug\netcoreapp2.1\NewAndOverride.dll
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\bin\Debug\netcoreapp2.1\NewAndOverride.pdb
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.AssemblyInfo.cs
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.dll
+C:\Users\Adam\Desktop\New folder (4)\myOwnStorage\Algorithms_tests\NewAndOverride\obj\Debug\netcoreapp2.1\NewAndOverride.pdb

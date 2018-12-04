@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort_Algorithm", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{E503076F-C4A7-4B39-A993-A6C936A27247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionExtension", "InsertionExtension\InsertionExtension.csproj", "{BDC13598-B148-4058-9E07-74C860C47A13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionExtension", "InsertionExtension\InsertionExtension.csproj", "{BDC13598-B148-4058-9E07-74C860C47A13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionExtension_Tests", "InsertionExtension_Tests\InsertionExtension_Tests.csproj", "{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionExtension_Tests", "InsertionExtension_Tests\InsertionExtension_Tests.csproj", "{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewAndOverride", "NewAndOverride\NewAndOverride.csproj", "{C915D386-5BBD-488F-B414-EDEDFD5018B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C915D386-5BBD-488F-B414-EDEDFD5018B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C915D386-5BBD-488F-B414-EDEDFD5018B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C915D386-5BBD-488F-B414-EDEDFD5018B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C915D386-5BBD-488F-B414-EDEDFD5018B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +132,7 @@ Global
 		{E503076F-C4A7-4B39-A993-A6C936A27247} = {07074EA4-DFC6-4E16-AD3A-A9D8338F890D}
 		{BDC13598-B148-4058-9E07-74C860C47A13} = {07074EA4-DFC6-4E16-AD3A-A9D8338F890D}
 		{4D872DBD-D4A9-4DCF-86A9-F14E11E8EAF5} = {07074EA4-DFC6-4E16-AD3A-A9D8338F890D}
+		{C915D386-5BBD-488F-B414-EDEDFD5018B1} = {A8249980-FBA1-4DCA-9053-D59AB0FB97C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C4EDDB4C-A403-48D6-8025-1C0C9AE303EF}

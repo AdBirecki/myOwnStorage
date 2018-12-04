@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj",
       "projectName": "BSTUnbalanced_Implementation",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\BSTUnbalanced_Implementation.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Algorithms_tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -725,11 +725,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj"
+            "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BSTS_Models\\BSTS_Models.csproj"
             },
-            "F:\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj"
+            "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Comparers\\Comparers.csproj"
             }
           }
         }

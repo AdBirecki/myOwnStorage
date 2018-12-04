@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\BubbleSort_Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\BubbleSort_Implementation.csproj",
       "projectName": "BubbleSort_Implementation",
-      "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\BubbleSort_Implementation.csproj",
+      "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\BubbleSort_Implementation.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "F:\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\BubbleSort_Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,8 +709,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj": {
-              "projectPath": "F:\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj"
+            "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Desktop\\New folder (4)\\myOwnStorage\\Algorithms_tests\\Extensions\\Extensions.csproj"
             }
           }
         }
